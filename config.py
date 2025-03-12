@@ -1,3 +1,3 @@
-USERNAME = "crayzboys38"
-PASSWORD = "38202538."
+USERNAME = "your_username"
+PASSWORD = "your_password"
 KEYWORD = "technology"
